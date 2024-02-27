@@ -7,7 +7,7 @@
 ---
 
 ## Biodata
-- Nama: Naufal Maulana Faza
+- Nama: Naufal Maulana Faza 
 - Program: IBM Advance AI
 - Asal universitas: Universitas Swadaya Gunung Jati - Cirebon
 - Semester: 6
@@ -15,4 +15,4 @@
 
 ## Tech Stack
 - Phyton
-- Jupyterlab
+- Jupyter Notebook
