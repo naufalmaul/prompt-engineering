@@ -2,7 +2,7 @@
 ## Author: @sinanazeri
 
 
-Mentee assignments from IBM Advancde AI for @Infinite Learning
+Mentee assignments from IBM Advance AI for @Infinite Learning
 Course completion from Cognitive Class.AI
 ---
 
