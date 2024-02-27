@@ -2,8 +2,8 @@
 ## Author: @sinanazeri
 
 
-# Mentee assignments from IBM Advance AI for @Infinite Learning
-# Course completion from Cognitive Class.AI
+### Mentee assignments from IBM Advance AI for @Infinite Learning
+### Course completion from Cognitive Class.AI
 ---
 
 ## Biodata
