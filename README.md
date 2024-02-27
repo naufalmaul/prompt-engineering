@@ -1,2 +1,17 @@
 # Art of Prompt Engineering
-## A
+## Author: @sinanazeri
+
+
+Mentee assignments from IBM Advancde AI for @Infinite Learning
+Course completion from Cognitive Class.AI
+---
+
+Nama: Naufal Maulana Faza
+Program: IBM Advance AI
+Asal universitas: Universitas Swadaya Gunung Jati - Cirebon
+Semester: 6
+Interest: AI, Workout and Relaxing video games.
+
+## Tech Stack
+- Phyton
+- Jupyterlab
